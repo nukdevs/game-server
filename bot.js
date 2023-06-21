@@ -11,7 +11,7 @@ const axios = require("axios");
 
 const connectMongo = async () =>
     mongoose.connect(
-        "mongodb+srv://dbCracle:cracle0615@cluster0.o7nv6to.mongodb.net/?retryWrites=true&w=majority"
+        "mongodb+srv://cracle7poker:culdBKv9f5l7Jlmj@cluster0.b7d2wdn.mongodb.net/?retryWrites=true&w=majority"
     );
 
 //const connectMongo = async () => mongoose.connect(process.env.MONGO_URI);
